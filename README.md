@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KratozGG
-- 👀 I’m interested in python bot development
-- 🌱 I’m currently learning more about python development
-- 💞️ I’m looking to collaborate on discord programming
-- 📫 How to reach me aat kratozgglancer@gmail.com
+- Hi, I’m a backend programming enthusiast who works with Python and C#.
+- I primarily code discord chatbots
+- Reach me at kratozgglancer@gmail.com
+
 
 <!---
 KratozGG/KratozGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
